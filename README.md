@@ -18,7 +18,7 @@ Below are the tasks covered in the notebook:
 
 ----------------------------------------------------------------------------------
 A sample image from the outputs displaying the user activity heatmap for the purpose of **Feature Selection** which plays a big role here:
-* The heatmap allows for the identification of any recurring patterns or trends in user activity over the course of a week
+* The heatmap allows for the identification of any recurring patterns or trends in user activity over the course of a week.
 * From the heatmap, we can identify periods of high activity as clusters of darker colors, indicating peak times when users are most active. Conversely, lighter colors represent periods of low activity or off-peak times.
 * For example, it can be seen that 4th (Thursday) day of the week is the busiest day whereas the time between 6:00 and 16:00 seems to be the most used hours during the day which can be attributed to general office timings.
   
