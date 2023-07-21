@@ -14,7 +14,7 @@ Below are the tasks covered in the notebook:
 * Visualize the clusters
 * Analyze URL structure
 * Patterns in sessions/paths
-* Some predictive modeling, if possible
+* Some predictive modeling
 
 ----------------------------------------------------------------------------------
 A sample image from the outputs displaying the user activity heatmap for the purpose of **Feature Selection** which plays a big role here:
